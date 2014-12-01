@@ -2,3 +2,4 @@ these are my lesson 2 reflections.
 First of alll, the history command.
 !"some part of a command" will do the last command in history that looked like that
 those I think are the important ones for now
+change!
