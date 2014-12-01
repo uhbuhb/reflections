@@ -1,0 +1,5 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+I could see the syntax of the old working version.
+I could see the change that was made.
+the change looked similar to the original, but with a typo.
