@@ -3,3 +3,11 @@ First of alll, the history command.
 !"some part of a command" will do the last command in history that looked like that
 those I think are the important ones for now
 change!
+
+ls -all    show hidden files
+git init
+git log
+git status
+git add
+git reset (--hard) hard to discard changes
+git commit
